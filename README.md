@@ -113,10 +113,10 @@ Contributions are welcome! Here's how you can help:
 ---
 
 ## **Contact**
-**Manikandan M**  
-Email: mmanikandan281@gmail.com
+**Abhishek K**  
+Email: abhishekalangad@gmail.com
 
-GitHub: [Manikandan-M](https://github.com/mmanikandan281)  
+GitHub: [Abhishek K](https://github.com/abhishekalangad)  
 
 ---
 
