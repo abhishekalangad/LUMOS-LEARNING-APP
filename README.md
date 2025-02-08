@@ -53,7 +53,7 @@ To set up the project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/abhishekalangad/https://lumos-learning-app-tau.vercel.app/
+   https://github.com/abhishekalangad/Lumos-learning-app.git
    ```
 2. Navigate to the project directory:
    ```bash
