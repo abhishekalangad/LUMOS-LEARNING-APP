@@ -43,7 +43,7 @@ The **Lumos Learning App** is designed for **CP (Cognitive and Physical) student
 ---
 
 ## **Live Demo**
-Experience the app live: [Lumos Learning App on Vercel](https://lumos-learning-app.vercel.app)
+Experience the app live: [Lumos Learning App on Vercel](https://lumos-learning-app-tau.vercel.app/)
 
 ---
 
@@ -53,7 +53,7 @@ To set up the project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Vyshnav-ms/Lumos-learning-app.git
+   git clone https://github.com/abhishekalangad/https://lumos-learning-app-tau.vercel.app/
    ```
 2. Navigate to the project directory:
    ```bash
@@ -112,9 +112,9 @@ Contributions are welcome! Here's how you can help:
 ---
 
 ## **Contact**
-**Vyshnav MS**  
-Email: [vyshnams1@gmail.com](mailto:vyshnams1@gmail.com)  
-GitHub: [Vyshnav-ms](https://github.com/Vyshnav-ms)  
+****  
+Email: [abhishekalangad@gmail.com](mailto:abhishekalangad@gmail.com)  
+GitHub: [Abhishek-K](https://github.com/abhishekalangad)  
 
 ---
 
